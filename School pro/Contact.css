@@ -1,0 +1,71 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-image: url(6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: cover;
+    font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 200;
+}
+
+.menu {
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+}
+
+.menu ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+.menu li {
+    padding: 20px;
+    margin: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: green;
+}
+
+.icon {
+    color: coral;
+}
+
+.us {
+    padding-top: 50px;
+    color: coral;
+}
+
+.area {
+    height: 100px;
+    width: 500px;
+}
+
+.z {
+    color: #ad1d1d;
+    padding-left: 300px;
+    padding-top: 100px5;
+}
+
+.y {
+ padding-left: 300px;
+    padding-top: 50px;
+}
+
+.but {
+    color: coral;
+}
