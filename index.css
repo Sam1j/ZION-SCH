@@ -1,0 +1,80 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu {
+    background-color: #000;
+    text-align: center;
+    color: white;
+}
+
+.menu ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+.menu li {
+    padding: 20px;
+    margin: 8px;
+}
+
+.body {
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: cover;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.logo {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    padding-right: 10px;
+    padding-top: 20px;
+    left: 30px;
+}
+
+body {
+    font-family: "Fredoka", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 200;
+}
+
+.icon {
+    color: coral;
+}
+
+.p {
+    color: coral;
+}
+
+h1 {
+    color: #fff;
+}
+
+h4 {
+    color: #ffff;
+}
+
+.r {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: green;
+}
+
+.v {
+    color: firebrick;
+}
